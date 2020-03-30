@@ -1,4 +1,9 @@
 *.zip
 .ipynb_checkpoints/
-__MACOSX/
+
 processed_celeba_small/
+
+
+__MACOSX/
+__pycache__/
+.DS_Store
